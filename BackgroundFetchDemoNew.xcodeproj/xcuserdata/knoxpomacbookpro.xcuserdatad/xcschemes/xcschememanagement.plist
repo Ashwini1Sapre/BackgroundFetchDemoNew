@@ -7,7 +7,30 @@
 		<key>BackgroundFetchDemoNew.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Copy of BackgroundFetchDemoNew.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6007959425C5417500B0EE8D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>600795AA25C5417700B0EE8D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>600795B525C5417700B0EE8D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
